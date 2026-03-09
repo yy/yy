@@ -13,6 +13,7 @@ I'm a Data Science Professor at the [University of Virginia School of Data Scien
 | [**sex-reporting**](https://github.com/yy/sex-reporting) | Sex reporting data analysis (Lancet, 2019) |
 | [**backward-contact-tracing**](https://github.com/yy/backward-contact-tracing) | "The effectiveness of backward contact tracing in networks" |
 | [**embedding-disruptiveness**](https://github.com/yy/embedding-disruptiveness) | "Uncovering simultaneous breakthroughs with a robust measure of disruptiveness" |
+| [**frameaxis**](https://github.com/yy/frameaxis) | "FrameAxis: characterizing microframe bias and intensity with word embedding" |
 | [**national-science-exports**](https://github.com/yy/national-science-exports) | National science export analysis |
 
 #### Teaching
