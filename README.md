@@ -4,25 +4,6 @@ I'm a Data Science Professor at the [University of Virginia School of Data Scien
 
 ---
 
-#### Research
-
-- **[backward-contact-tracing](https://github.com/yy/backward-contact-tracing)** — "The effectiveness of backward contact tracing in networks"
-- **[embedding-disruptiveness](https://github.com/yy/embedding-disruptiveness)** — "Uncovering simultaneous breakthroughs with a robust measure of disruptiveness"
-- **[frameaxis](https://github.com/yy/frameaxis)** — "FrameAxis: characterizing microframe bias and intensity with word embedding"
-- **[sex-reporting](https://github.com/yy/sex-reporting)** — Sex reporting data analysis (Lancet, 2019)
-- **[national-science-exports](https://github.com/yy/national-science-exports)** — National science export analysis
-- **[project-template](https://github.com/yy/project-template)** — Template for reproducible research repositories
-- **[rebuttal-template](https://github.com/yy/rebuttal-template)** — Template for paper review responses
-
-#### Teaching
-
-- **[dviz-course](https://github.com/yy/dviz-course)** — Data visualization course
-- **[netsci-course](https://github.com/yy/netsci-course)** — Network science course (IU Luddy I606)
-
-#### Visualization
-
-- **[elon_paypackage](https://github.com/yy/elon_paypackage)** — [Visualization of Elon Musk's pay package](https://yyahn.com/elon_paypackage/)
-
 #### Packages & Tools
 
 - **[figquilt](https://github.com/yy/figquilt)** — Figure quilter — compose multi-panel figures from individual plots
@@ -31,6 +12,22 @@ I'm a Data Science Professor at the [University of Virginia School of Data Scien
 - **[wiggum](https://github.com/yy/wiggum)** — Ralph Wiggum loop for AI agents
 - **[quarto-prerender](https://github.com/yy/quarto-prerender)** — Quarto prerenderer for Obsidian vault
 - **[obsidian-year-glance](https://github.com/yy/obsidian-year-glance)** — Yearly calendar view plugin for Obsidian
+
+#### Templates
+
+- **[project-template](https://github.com/yy/project-template)** — Template for reproducible research repositories
+- **[rebuttal-template](https://github.com/yy/rebuttal-template)** — Template for paper review responses
+
+#### Past Projects
+
+- **[elon_paypackage](https://github.com/yy/elon_paypackage)** — [Visualization of Elon Musk's pay package](https://yyahn.com/elon_paypackage/)
+- **[backward-contact-tracing](https://github.com/yy/backward-contact-tracing)** — "The effectiveness of backward contact tracing in networks"
+- **[embedding-disruptiveness](https://github.com/yy/embedding-disruptiveness)** — "Uncovering simultaneous breakthroughs with a robust measure of disruptiveness"
+- **[frameaxis](https://github.com/yy/frameaxis)** — "FrameAxis: characterizing microframe bias and intensity with word embedding"
+- **[sex-reporting](https://github.com/yy/sex-reporting)** — Sex reporting data analysis (Lancet, 2019)
+- **[national-science-exports](https://github.com/yy/national-science-exports)** — National science export analysis
+- **[dviz-course](https://github.com/yy/dviz-course)** — Data visualization course
+- **[netsci-course](https://github.com/yy/netsci-course)** — Network science course
 
 ---
 
