@@ -4,7 +4,7 @@ I'm a Data Science Professor at the [University of Virginia School of Data Scien
 
 ---
 
-### Packages & Tools
+### Active Projects
 
 - **[figquilt](https://github.com/yy/figquilt)** — Figure quilter — compose multi-panel figures from individual plots
 - **[foliate](https://github.com/yy/foliate)** — Static site generator for markdown files (Obsidian vault compatible)
