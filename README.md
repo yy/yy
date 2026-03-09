@@ -31,6 +31,7 @@ I'm a Data Science Professor at the [University of Virginia School of Data Scien
 | [**foliate**](https://github.com/yy/foliate) | Static site generator for markdown files (Obsidian vault compatible) |
 | [**ofocus**](https://github.com/yy/ofocus) | CLI for OmniFocus via JXA — terminal and AI agent access to tasks |
 | [**wiggum**](https://github.com/yy/wiggum) | Ralph Wiggum loop for AI agents |
+| [**quarto-prerender**](https://github.com/yy/quarto-prerender) | Quarto prerenderer for Obsidian vault |
 | [**obsidian-year-glance**](https://github.com/yy/obsidian-year-glance) | Yearly calendar view plugin for Obsidian |
 
 
