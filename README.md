@@ -23,6 +23,12 @@ I'm a Data Science Professor at the [University of Virginia School of Data Scien
 | [**netsci-course**](https://github.com/yy/netsci-course) | Network science course (IU Luddy I606) |
 
 
+#### Visualization
+
+| | |
+|---|---|
+| [**elon_paypackage**](https://github.com/yy/elon_paypackage) | Visualization of Elon Musk's pay package |
+
 #### Other Packages & Tools
 
 | | |
