@@ -1,10 +1,10 @@
-### Hi, I'm YY!
+## Hi, I'm YY!
 
 I'm a Data Science Professor at the [University of Virginia School of Data Science](https://datascience.virginia.edu/), where I run [Y Lab](https://yy.github.io). My research sits at the intersection of network science, machine learning, and social & biological sciences.
 
 ---
 
-#### Packages & Tools
+### Packages & Tools
 
 - **[figquilt](https://github.com/yy/figquilt)** — Figure quilter — compose multi-panel figures from individual plots
 - **[foliate](https://github.com/yy/foliate)** — Static site generator for markdown files (Obsidian vault compatible)
@@ -13,12 +13,12 @@ I'm a Data Science Professor at the [University of Virginia School of Data Scien
 - **[quarto-prerender](https://github.com/yy/quarto-prerender)** — Quarto prerenderer for Obsidian vault
 - **[obsidian-year-glance](https://github.com/yy/obsidian-year-glance)** — Yearly calendar view plugin for Obsidian
 
-#### Templates
+### Templates
 
 - **[project-template](https://github.com/yy/project-template)** — Template for reproducible research repositories
 - **[rebuttal-template](https://github.com/yy/rebuttal-template)** — Template for paper review responses
 
-#### Past Projects
+### Past Projects
 
 **Research code**
 - **[backward-contact-tracing](https://github.com/yy/backward-contact-tracing)** — "The effectiveness of backward contact tracing in networks"
