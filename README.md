@@ -21,7 +21,7 @@ I'm a Data Science Professor at the [University of Virginia School of Data Scien
 
 #### Visualization
 
-- **[elon_paypackage](https://github.com/yy/elon_paypackage)** — Visualization of Elon Musk's pay package
+- **[elon_paypackage](https://github.com/yy/elon_paypackage)** — [Visualization of Elon Musk's pay package](https://yyahn.com/elon_paypackage/)
 
 #### Packages & Tools
 
