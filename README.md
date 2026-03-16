@@ -9,6 +9,7 @@ I'm a Data Science Professor at the [University of Virginia School of Data Scien
 - **[figquilt](https://github.com/yy/figquilt)** — Figure quilter — compose multi-panel figures from individual plots
 - **[foliate](https://github.com/yy/foliate)** — Static site generator for markdown files (Obsidian vault compatible)
 - **[ofocus](https://github.com/yy/ofocus)** — CLI for OmniFocus via JXA — terminal and AI agent access to tasks
+- **[tgl](https://github.com/yy/tgl)** — Command-line interface for Toggl Track
 - **[wiggum](https://github.com/yy/wiggum)** — Ralph Wiggum loop for AI agents
 - **[quarto-prerender](https://github.com/yy/quarto-prerender)** — Quarto prerenderer for Obsidian vault
 - **[obsidian-year-glance](https://github.com/yy/obsidian-year-glance)** — Yearly calendar view plugin for Obsidian
