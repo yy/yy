@@ -7,6 +7,7 @@ I'm a Data Science Professor at the [University of Virginia School of Data Scien
 ### Active Projects
 
 - 🔍 **[bibsleuth](https://github.com/yy/bibsleuth)** — Citation verification and analysis for LaTeX papers
+- 🎓 **[claude-scholar](https://github.com/yy/claude-scholar)** — Academic research skills for Claude Code — literature search, citation checks, LaTeX cleanup, and submission prep
 - 🖼️ **[figquilt](https://github.com/yy/figquilt)** — Figure quilter — compose multi-panel figures from individual plots
 - 🌿 **[foliate](https://github.com/yy/foliate)** — Static site generator for markdown files (Obsidian vault compatible)
 - ✅ **[ofocus](https://github.com/yy/ofocus)** — CLI for OmniFocus via JXA — terminal and AI agent access to tasks
