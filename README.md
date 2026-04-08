@@ -4,18 +4,24 @@ I'm a Data Science Professor at the [University of Virginia School of Data Scien
 
 ---
 
-### Active Projects
+### Research Tools
 
 - 🔍 **[bibsleuth](https://github.com/yy/bibsleuth)** — Citation verification and analysis for LaTeX papers
 - 🎓 **[claude-scholar](https://github.com/yy/claude-scholar)** — Academic research tools for Claude Code
 - 🖼️ **[figquilt](https://github.com/yy/figquilt)** — Figure quilter — compose multi-panel figures from individual plots
+
+### Knowledge Tools
+
 - 🌿 **[foliate](https://github.com/yy/foliate)** — Static site generator for markdown files (Obsidian vault compatible)
-- ✅ **[ofocus](https://github.com/yy/ofocus)** — CLI for OmniFocus via JXA — terminal and AI agent access to tasks
-- ⏱️ **[tgl](https://github.com/yy/tgl)** — Command-line interface for Toggl Track
-- 🐱 **[tabby](https://github.com/yy/tabby)** — Mac CLI for herding browser tabs (Chrome & Safari)
-- 🔁 **[wiggum](https://github.com/yy/wiggum)** — Ralph Wiggum loop for AI agents
 - 📄 **[quarto-prerender](https://github.com/yy/quarto-prerender)** — Quarto prerenderer for Obsidian vault
 - 📅 **[obsidian-year-glance](https://github.com/yy/obsidian-year-glance)** — Yearly calendar view plugin for Obsidian
+
+### Misc. Tools
+
+- ✅ **[ofocus](https://github.com/yy/ofocus)** — CLI for OmniFocus via JXA — terminal and AI agent access to tasks
+- 🐱 **[tabby](https://github.com/yy/tabby)** — Mac CLI for herding browser tabs (Chrome & Safari)
+- ⏱️ **[tgl](https://github.com/yy/tgl)** — Command-line interface for Toggl Track
+- 🔁 **[wiggum](https://github.com/yy/wiggum)** — Ralph Wiggum loop for AI agents
 
 ### Templates
 
