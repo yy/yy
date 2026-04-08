@@ -21,7 +21,7 @@ I'm a Data Science Professor at the [University of Virginia School of Data Scien
 - ✅ **[ofocus](https://github.com/yy/ofocus)** — CLI for OmniFocus via JXA — terminal and AI agent access to tasks
 - 🐱 **[tabby](https://github.com/yy/tabby)** — Mac CLI for herding browser tabs (Chrome & Safari)
 - ⏱️ **[tgl](https://github.com/yy/tgl)** — Command-line interface for Toggl Track
-- 📋 **[project-hq](https://github.com/yy/project-hq)** — CLI for tracking projects across multiple areas of work and life
+- 📋 **[project-hq](https://github.com/yy/project-hq)** — A flexible project management system built in Rust with a kanban interface
 - 🔁 **[wiggum](https://github.com/yy/wiggum)** — Ralph Wiggum loop for AI agents
 
 ### Templates
