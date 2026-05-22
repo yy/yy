@@ -24,6 +24,11 @@ I'm a Data Science Professor at the [University of Virginia School of Data Scien
 - 📋 **[project-hq](https://github.com/yy/project-hq)** — A flexible project management system built in Rust with a kanban interface
 - 🔁 **[wiggum](https://github.com/yy/wiggum)** — Ralph Wiggum loop for AI agents
 
+### Charlottesville
+
+- 🚌 **[cville-transit](https://github.com/yy/cville-transit)** — Knowledge base for Charlottesville-area transit, starting with getting UVA Transit into Google/Apple Maps
+- 🏘️ **[cville-kb](https://github.com/yy/cville-kb)** — Charlottesville knowledge base
+
 ### Templates
 
 - 📁 **[project-template](https://github.com/yy/project-template)** — Template for reproducible research repositories
