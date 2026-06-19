@@ -23,6 +23,7 @@ I'm a Data Science Professor at the [University of Virginia School of Data Scien
 - ⏱️ **[tgl](https://github.com/yy/tgl)** — Command-line interface for Toggl Track
 - 📋 **[project-hq](https://github.com/yy/project-hq)** — A flexible project management system built in Rust with a kanban interface
 - 🔁 **[wiggum](https://github.com/yy/wiggum)** — Ralph Wiggum loop for AI agents
+- 🫙 **[recall](https://github.com/yy/recall)** — Grep-friendly CLI data jar for URLs, IDs, snippets, and vault-backed secret references
 
 ### Templates
 
