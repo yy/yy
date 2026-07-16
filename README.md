@@ -12,15 +12,13 @@ I'm a Data Science Professor at the [University of Virginia School of Data Scien
 
 ### Knowledge Tools
 
-- 🌿 **[foliate](https://github.com/yy/foliate)** — Static site generator for markdown files (Obsidian vault compatible)
-- 📄 **[quarto-prerender](https://github.com/yy/quarto-prerender)** — Quarto prerenderer for Obsidian vault
+- 🌿 **[foliate](https://github.com/yy/foliate)** — Static site generator for Markdown and Quarto files (Obsidian vault compatible)
 - 📅 **[obsidian-year-glance](https://github.com/yy/obsidian-year-glance)** — Yearly calendar view plugin for Obsidian
 
 ### Misc. Tools
 
 - ✅ **[ofocus](https://github.com/yy/ofocus)** — CLI for OmniFocus via JXA — terminal and AI agent access to tasks
 - 🐱 **[tabby](https://github.com/yy/tabby)** — Mac CLI for herding browser tabs (Chrome & Safari)
-- ⏱️ **[tgl](https://github.com/yy/tgl)** — Command-line interface for Toggl Track
 - 📋 **[project-hq](https://github.com/yy/project-hq)** — A flexible project management system built in Rust with a kanban interface
 - 🔁 **[wiggum](https://github.com/yy/wiggum)** — Ralph Wiggum loop for AI agents
 - 🫙 **[recall](https://github.com/yy/recall)** — Grep-friendly CLI data jar for URLs, IDs, snippets, and vault-backed secret references
@@ -36,6 +34,10 @@ I'm a Data Science Professor at the [University of Virginia School of Data Scien
 - 🏘️ **[cville-kb](https://github.com/yy/cville-kb)** — Charlottesville knowledge base
 
 ### Past Projects
+
+**Software**
+- 📄 **[quarto-prerender](https://github.com/yy/quarto-prerender)** — Archived; its Quarto pipeline now lives in Foliate
+- ⏱️ **[tgl](https://github.com/yy/tgl)** — Archived command-line interface for Toggl Track
 
 **Research code**
 - 🦠 **[backward-contact-tracing](https://github.com/yy/backward-contact-tracing)** — "The effectiveness of backward contact tracing in networks"
